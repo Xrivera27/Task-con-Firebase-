@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157487917065",
+    "project_id": "tareas-78037",
+    "storage_bucket": "tareas-78037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157487917065:android:4b8ad696cbadf1ff8bb0d8",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjjIPAGsHs7miEuGzbDL4kavE9GGEvsl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
